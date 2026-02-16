@@ -268,6 +268,17 @@ a:active {
   padding: 10px 20px 10px 0px;
 }
 
+.imageW {
+  max-width: 50em;
+  margin: 2em auto;
+  border: 0.3em solid #030;
+  border-radius: 1em;
+  padding: 1em;
+  background-color: white;
+  box-shadow: 0.5em 0.5em 1em #0006;
+  text-align: center;
+}
+
 .layouttable {
   border-spacing: 0;
   font-size: 1em;
